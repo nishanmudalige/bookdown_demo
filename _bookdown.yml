@@ -1,0 +1,10 @@
+language:
+  ui:
+    chapter_name: "Chapter "
+output_dir: "docs"
+header-includes:
+  - \usepackage{tikz}
+  - \usetikzlibrary{arrows.meta,positioning}
+rmd_files:
+  - "index.Rmd"
+  - "Chapters/sample.Rmd"

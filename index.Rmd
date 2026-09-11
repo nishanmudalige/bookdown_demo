@@ -1,0 +1,15 @@
+---
+title: "An Introduction to Mathematical Epidemiology"
+author: "Rose, Heba, Bryce Morsky, Nishan Mudalige"
+date: ""
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook
+documentclass: book
+github-repo: nishanmudalige/bookdown_demo
+description: "Bookdown hosted on github using bookdown::gitbook."
+---
+
+# Welcome
+
+Content goes here
