@@ -1,0 +1,15 @@
+---
+title: "Bookdown demo"
+author: "Naz, Addison, Maria"
+date: ""
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    split_bib: no
+documentclass: book
+
+---
+
+# Introduction
+
+This is our demo book
